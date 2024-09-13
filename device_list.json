@@ -1,0 +1,16 @@
+[
+  {
+    "deviceId": "CE3234353619",
+    "deviceName": "Temp_sensor",
+    "deviceType": "Meter",
+    "enableCloudService": true,
+    "hubDeviceId": "000000000000"
+  },
+  {
+    "deviceId": "D8B3A8F5F51F",
+    "deviceName": "Hub_mini",
+    "deviceType": "Hub Mini",
+    "enableCloudService": true,
+    "hubDeviceId": "000000000000"
+  }
+]
